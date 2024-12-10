@@ -3,8 +3,8 @@
 Local web app for playing subtitles during a play on stage. With no external dependencies required. Use common `.srt` subtitle format.
 
 <p float="left">
-  <img src="./resources/img/Screenshot%200.1.png" width="49.75%" />
-  <img src="./resources/img/Screenshot%200.2.png" width="49.75%" /> 
+  <img src="./resources/img/Screenshot%200.1.png" width="49%" />
+  <img src="./resources/img/Screenshot%200.2.png" width="49%" /> 
 </p>
 
 
@@ -18,11 +18,11 @@ Local web app for playing subtitles during a play on stage. With no external dep
 - unzip archive
 
 <p float="left">
-  <img src="./resources/img/Screenshot%201.1.png" width="49.75%" />
+  <img src="./resources/img/Screenshot%201.1.png" width="49%" />
 </p>
 <p float="left">
-  <img src="./resources/img/Screenshot%201.2.png" width="49.75%" />
-  <img src="./resources/img/Screenshot%201.3.png" width="49.75%" /> 
+  <img src="./resources/img/Screenshot%201.2.png" width="49%" />
+  <img src="./resources/img/Screenshot%201.3.png" width="49%" /> 
 </p>
 
 
