@@ -5,7 +5,6 @@
     /* margin-top: 30vh; */
 
     display: inline-block;
-    box-sizing:;
 }
 
 .rs-range {
@@ -115,4 +114,9 @@
         margin-top: -2px;
     } */
 
+}
+
+.rs-input-normal {
+    /* color: #419152; */
+    
 }
